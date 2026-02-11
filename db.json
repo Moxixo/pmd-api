@@ -1,0 +1,9 @@
+{
+  "juegos": [
+    {"id":"0", "nombre":"Persona 3 Reload", "precio":"40.99", "fechaSalida":"02-02-2024"},
+    {"id":"1", "nombre":"Hollow Knight", "precio":"20.00", "fechaSalida":"24-02-2017"},
+    {"id":"2", "nombre":"Celeste", "precio":"10.50", "fechaSalida":"25-01-2018"},
+    {"id":"3", "nombre":"Undertale", "precio":"9.90", "fechaSalida":"15-10-2015"},
+    {"id":"4", "nombre":"Rayman", "precio":"10.70", "fechaSalida":"1-10-1995"}
+  ]
+}
