@@ -1,13 +1,13 @@
 {
   "juegos": [
-    { "id": "1", "nombre": "The Legend of Zelda", "genero": "Acción-Aventura", "desarrollador_id": "1" },
-    { "id": "2", "nombre": "Super Mario Odyssey", "genero": "Plataformas", "desarrollador_id": "1" },
-    { "id": "3", "nombre": "Persona 5 Royal", "genero": "JRPG", "desarrollador_id": "2" },
-    { "id": "4", "nombre": "Shin Megami Tensei V", "genero": "JRPG", "desarrollador_id": "2" },
-    { "id": "5", "nombre": "Resident Evil Village", "genero": "Survival Horror", "desarrollador_id": "3" },
-    { "id": "6", "nombre": "Street Fighter 6", "genero": "Lucha", "desarrollador_id": "3" },
-    { "id": "7", "nombre": "Hollow Knight: Silksong", "genero": "Metroidvania", "desarrollador_id": "4" },
-    { "id": "8", "nombre": "The Elder Scrolls V: Skyrim", "genero": "RPG de Acción", "desarrollador_id": "5" },
-    { "id": "9", "nombre": "Fallout 4", "genero": "RPG de Acción", "desarrollador_id": "5" }
+    { "juego_id": "1", "nombre": "The Legend of Zelda", "genero": "Acción-Aventura", "desarrollador_id": "1" },
+    { "juego_id": "2", "nombre": "Super Mario Odyssey", "genero": "Plataformas", "desarrollador_id": "1" },
+    { "juego_id": "3", "nombre": "Persona 5 Royal", "genero": "JRPG", "desarrollador_id": "2" },
+    { "juego_id": "4", "nombre": "Shin Megami Tensei V", "genero": "JRPG", "desarrollador_id": "2" },
+    { "juego_id": "5", "nombre": "Resident Evil Village", "genero": "Survival Horror", "desarrollador_id": "3" },
+    { "juego_id": "6", "nombre": "Street Fighter 6", "genero": "Lucha", "desarrollador_id": "3" },
+    { "juego_id": "7", "nombre": "Hollow Knight: Silksong", "genero": "Metroidvania", "desarrollador_id": "4" },
+    { "juego_id": "8", "nombre": "The Elder Scrolls V: Skyrim", "genero": "RPG de Acción", "desarrollador_id": "5" },
+    { "juego_id": "9", "nombre": "Fallout 4", "genero": "RPG de Acción", "desarrollador_id": "5" }
   ]
 }
