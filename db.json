@@ -1,13 +1,13 @@
 {
   "juegos": [
-    { "id": "1", "nombre": "The Legend of Zelda", "precio": "59.99", "desarrollador_id": "1" },
-    { "id": "2", "nombre": "Super Mario Odyssey", "precio": "45.00", "desarrollador_id": "1" },
-    { "id": "3", "nombre": "Persona 5 Royal", "precio": "39.90", "desarrollador_id": "2" },
-    { "id": "4", "nombre": "Shin Megami Tensei V", "precio": "49.99", "desarrollador_id": "2" },
-    { "id": "5", "nombre": "Resident Evil Village", "precio": "29.99", "desarrollador_id": "3" },
-    { "id": "6", "nombre": "Street Fighter 6", "precio": "59.90", "desarrollador_id": "3" },
-    { "id": "7", "nombre": "Hollow Knight: Silksong", "precio": "19.99", "desarrollador_id": "4" },
-    { "id": "8", "nombre": "The Elder Scrolls V: Skyrim", "precio": "19.90", "desarrollador_id": "5" },
-    { "id": "9", "nombre": "Fallout 4", "precio": "15.50", "desarrollador_id": "5" }
+    { "id": "1", "nombre": "The Legend of Zelda", "genero": "Acción-Aventura", "desarrollador_id": "1" },
+    { "id": "2", "nombre": "Super Mario Odyssey", "genero": "Plataformas", "desarrollador_id": "1" },
+    { "id": "3", "nombre": "Persona 5 Royal", "genero": "JRPG", "desarrollador_id": "2" },
+    { "id": "4", "nombre": "Shin Megami Tensei V", "genero": "JRPG", "desarrollador_id": "2" },
+    { "id": "5", "nombre": "Resident Evil Village", "genero": "Survival Horror", "desarrollador_id": "3" },
+    { "id": "6", "nombre": "Street Fighter 6", "genero": "Lucha", "desarrollador_id": "3" },
+    { "id": "7", "nombre": "Hollow Knight: Silksong", "genero": "Metroidvania", "desarrollador_id": "4" },
+    { "id": "8", "nombre": "The Elder Scrolls V: Skyrim", "genero": "RPG de Acción", "desarrollador_id": "5" },
+    { "id": "9", "nombre": "Fallout 4", "genero": "RPG de Acción", "desarrollador_id": "5" }
   ]
 }
