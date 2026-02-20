@@ -1,9 +1,13 @@
 {
   "juegos": [
-    {"id":"0", "nombre":"Persona 3 Reload", "precio":"40.99", "fechaSalida":"02-02-2024"},
-    {"id":"1", "nombre":"Hollow Knight", "precio":"20.00", "fechaSalida":"24-02-2017"},
-    {"id":"2", "nombre":"Celeste", "precio":"10.50", "fechaSalida":"25-01-2018"},
-    {"id":"3", "nombre":"Undertale", "precio":"9.90", "fechaSalida":"15-10-2015"},
-    {"id":"4", "nombre":"Rayman", "precio":"10.70", "fechaSalida":"1-10-1995"}
+    { "id": "1", "nombre": "The Legend of Zelda", "precio": "59.99", "desarrollador_id": "1" },
+    { "id": "2", "nombre": "Super Mario Odyssey", "precio": "45.00", "desarrollador_id": "1" },
+    { "id": "3", "nombre": "Persona 5 Royal", "precio": "39.90", "desarrollador_id": "2" },
+    { "id": "4", "nombre": "Shin Megami Tensei V", "precio": "49.99", "desarrollador_id": "2" },
+    { "id": "5", "nombre": "Resident Evil Village", "precio": "29.99", "desarrollador_id": "3" },
+    { "id": "6", "nombre": "Street Fighter 6", "precio": "59.90", "desarrollador_id": "3" },
+    { "id": "7", "nombre": "Hollow Knight: Silksong", "precio": "19.99", "desarrollador_id": "4" },
+    { "id": "8", "nombre": "The Elder Scrolls V: Skyrim", "precio": "19.90", "desarrollador_id": "5" },
+    { "id": "9", "nombre": "Fallout 4", "precio": "15.50", "desarrollador_id": "5" }
   ]
 }
