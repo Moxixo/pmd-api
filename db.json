@@ -8,6 +8,7 @@
     { "juego_id": "6", "nombre": "Street Fighter 6", "genero": "Lucha", "desarrollador_id": "3" },
     { "juego_id": "7", "nombre": "Hollow Knight: Silksong", "genero": "Metroidvania", "desarrollador_id": "4" },
     { "juego_id": "8", "nombre": "The Elder Scrolls V: Skyrim", "genero": "RPG de Acción", "desarrollador_id": "5" },
-    { "juego_id": "9", "nombre": "Fallout 4", "genero": "RPG de Acción", "desarrollador_id": "5" }
+    { "juego_id": "9", "nombre": "Fallout 4", "genero": "RPG de Acción", "desarrollador_id": "5" },
+    { "juego_id": "10", "nombre": "Terraria", "genero": "Sandbox", "desarrollador_id": "1" }
   ]
 }
